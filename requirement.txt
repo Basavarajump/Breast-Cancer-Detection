@@ -1,0 +1,11 @@
+numpy==1.19.5
+pydot==1.4.1
+graphviz== 0.13.2
+h5py==2.10.0
+matplotlib==3.5.3
+keras==2.2.4
+tensorflow==2.4.1
+cv2==3.4.2.17
+sklearn==0.22.1
+
+scikit-learn            1.0.2
